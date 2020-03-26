@@ -1,6 +1,6 @@
 {
   "name": "@laptou/stylelint-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "laptou's stylelint config",
   "main": "index.js",
   "scripts": {
@@ -25,6 +25,7 @@
   },
   "dependencies": {
     "stylelint-config-recommended-scss": "^4.2.0",
-    "stylelint-config-rational-order": "^0.1.2"
+    "stylelint-config-rational-order": "^0.1.2",
+    "stylelint-scss": "^3.16.0"
   }
 }
