@@ -1,0 +1,30 @@
+{
+  "name": "@laptou/stylelint-config",
+  "version": "1.0.0",
+  "description": "laptou's stylelint config",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laptou/stylelint-config.git"
+  },
+  "keywords": [
+    "stylelint",
+    "stylelintconfig"
+  ],
+  "author": "Ibiyemi Abiodun <ibiyemi@intulon.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/laptou/stylelint-config/issues"
+  },
+  "homepage": "https://github.com/laptou/stylelint-config#readme",
+  "peerDependencies": {
+    "stylelint": ">= 13"
+  },
+  "dependencies": {
+    "stylelint-config-recommended-scss": "^4.2.0",
+    "stylelint-config-rational-order": "^0.1.2"
+  }
+}
